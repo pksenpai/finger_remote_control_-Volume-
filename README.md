@@ -1,7 +1,7 @@
 # Finger Remote Control (Volume)
 - Adjusting the volume of the computer with two fingers remotely! :D
 
-<img src="FVM_testing.gif" width="400" height="550">
+<img src="FVM_testing.gif" width="550" height="350">
 
 ----------------------------------------------------------------
 ## Linux Users:
