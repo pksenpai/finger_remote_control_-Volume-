@@ -18,7 +18,7 @@ sudo apt-get install alsa-utils
 sudo apt-get install python3-tk python3-dev
 ```
 
-2. Run `FVM_Linux.py` & enjoy!
+2. Run `FVM_Linux.py` & enjoy! :3
 
 > [!WARNING]
 > If the code doesn't work, try the following command:
@@ -28,4 +28,13 @@ sudo apt-get install python3-tk python3-dev
 > ```
 
 ## Windows Users:
-...
+0. Run the following commands for install libraries (venv):
+```console
+pip install -r requirements.txt
+```
+
+1. Run `FVM_Linux.py` & enjoy! :3
+
+
+   
+   
