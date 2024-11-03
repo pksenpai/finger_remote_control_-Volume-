@@ -21,7 +21,7 @@ sudo apt-get install python3-tk python3-dev
 2. Run `FVM_Linux.py` & enjoy!
 
 > [!WARNING]
-> If code doesn't run, try the following command:
+> If the code doesn't work, try the following command:
 > ```console
 > sudo apt-get update
 > sudo apt-get install libportaudio2
