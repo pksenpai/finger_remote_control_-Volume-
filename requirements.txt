@@ -1,0 +1,6 @@
+opencv-python
+mediapipe
+comtypes
+sounddevice
+pycaw
+pyautogui
