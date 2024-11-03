@@ -5,7 +5,7 @@
 
 ----------------------------------------------------------------
 ## Linux Users:
-0. Run the following commands for install libraries (venv):
+0. Run the following command for install libraries (venv):
 ```console
 pip install -r requirements.txt
 ```
@@ -21,14 +21,14 @@ sudo apt-get install python3-tk python3-dev
 2. Run `FVM_Linux.py` & enjoy! :3
 
 > [!WARNING]
-> If the code doesn't work, try the following command:
+> If the code doesn't work, try the following commands:
 > ```console
 > sudo apt-get update
 > sudo apt-get install libportaudio2
 > ```
 
 ## Windows Users:
-0. Run the following commands for install libraries (venv):
+0. Run the following command for install libraries (venv):
 ```console
 pip install -r requirements.txt
 ```
