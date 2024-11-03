@@ -33,7 +33,7 @@ sudo apt-get install python3-tk python3-dev
 pip install -r requirements.txt
 ```
 
-1. Run `FVM_Linux.py` & enjoy! :3
+1. Run `FVM_Windows.py` & enjoy! :3
 
 
    
